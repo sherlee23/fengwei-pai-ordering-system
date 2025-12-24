@@ -1,0 +1,7 @@
+{
+  "name": "FengWei Pai Ordering System",
+  "description": "A comprehensive ordering and management system for FengWei Pai, featuring a customer-facing storefront and a powerful admin backend for managing products, orders, inventory, and analytics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

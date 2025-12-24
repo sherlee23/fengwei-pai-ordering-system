@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- 背景圆形 -->
+  <circle cx="32" cy="32" r="32" fill="#dc2626"/>
+  
+  <!-- 主要图标 - 烹饪帽 -->
+  <path d="M16 28c0-8.8 7.2-16 16-16s16 7.2 16 16v4c0 2.2-1.8 4-4 4H20c-2.2 0-4-1.8-4-4v-4z" fill="white"/>
+  <rect x="14" y="32" width="36" height="8" rx="2" fill="white"/>
+  
+  <!-- 装饰点 -->
+  <circle cx="24" cy="20" r="2" fill="#dc2626"/>
+  <circle cx="32" cy="16" r="2" fill="#dc2626"/>
+  <circle cx="40" cy="20" r="2" fill="#dc2626"/>
+  
+  <!-- 底部文字区域 -->
+  <rect x="8" y="44" width="48" height="12" rx="2" fill="rgba(255,255,255,0.9)"/>
+  <text x="32" y="52" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" font-weight="bold" fill="#dc2626">锋味</text>
+</svg>

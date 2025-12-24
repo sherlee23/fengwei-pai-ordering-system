@@ -1,0 +1,53 @@
+# 依赖
+node_modules
+*.pnpm-debug.log*
+*.yarn-integrity
+
+# 构建输出
+dist
+dist-ssr
+*.local
+
+# 环境变量（包含敏感信息）
+.env.local
+.env.production.local
+.env.development.local
+
+# 日志文件
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# 编辑器目录和文件
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# 操作系统生成的文件
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# 临时文件
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# 备份文件
+*.bak
+*.backup
+*.old
+
+# Local Netlify folder
+.netlify
